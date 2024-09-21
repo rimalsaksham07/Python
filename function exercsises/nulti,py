@@ -1,0 +1,6 @@
+class addition:
+    def __init__(self,first,second):
+        first = self.num1
+        second = self.num2
+        
+    def add(self,)
